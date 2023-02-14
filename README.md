@@ -1,3 +1,5 @@
 # @netsu/react-utils
 
-SImple utilities for working with Rect!
+Simple utilities for working with React!
+
+Install: `npm i @netsu/react-utils`
