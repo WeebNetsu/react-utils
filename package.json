@@ -1,6 +1,6 @@
 {
     "name": "@netsu/react-utils",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Simple utilities, useful for almost any React project",
     "main": "dist/index.js",
     "scripts": {
